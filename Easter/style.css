@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    height: 390vh;
+    background: linear-gradient(#CFFFFE, #F9F7D9, #904309, #9f0080);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #904309;
+}
+
+div .link-1 {
+    margin: 20px 0;
+}
+
+a {
+    background: #904309;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #9afaf8;
+    border: #9afaf8 2px solid;
+    border-radius: 2px;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+
+iframe {
+    color: #904309;
+    border: #904309 10px solid;
+}
+
+.container {
+    margin: 0 20px;
+}
